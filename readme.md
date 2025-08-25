@@ -1,2 +1,2 @@
 #  project
-this isa toutorial project .
+this is a toutorial project .
